@@ -1,0 +1,9 @@
+@article{REPO-331,
+    author = "Lu, Zhichao and Whalen, Ian and Dhebar, Yashesh and Deb, Kalyanmoy and Goodman, Erik D and Banzhaf, Wolfgang and Boddeti, Vishnu Naresh",
+    journal = "IEEE Transactions on Evolutionary Computation",
+    number = "2",
+    pages = "277--291",
+    title = "{Multiobjective Evolutionary Design of Deep Convolutional Neural Networks for Image Classification }",
+    volume = "25",
+    year = "2020"
+}
